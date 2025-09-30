@@ -1,0 +1,8 @@
+{
+  "input_dim": 60,
+  "output_dim": 14,
+  "emb_dim": 64,
+  "hidden_dim": 256,
+  "n_epochs": 50,
+  "best_val_exact": 0.3154
+}
